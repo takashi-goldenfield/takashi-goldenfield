@@ -1,6 +1,6 @@
 # Takashi Goldenfield - Bitcoin News Content Creator
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_handle?style=social)](https://twitter.com/your_twitter_handle) [![YouTube Subscribe](https://img.shields.io/youtube/channel/subscribers/your_youtube_channel_id?style=social)](https://www.youtube.com/your_youtube_channel_id) [![Website](https://img.shields.io/badge/Website-Visit-blue)](your_website_url)
+[![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_handle?style=social)](https://twitter.com/your_twitter_handle) [![YouTube Subscribe](https://img.shields.io/youtube/channel/subscribers/your_youtube_channel_id?style=social)](https://www.youtube.com/@takashi-goldenfield) [![Website](https://img.shields.io/badge/Website-Visit-blue)](your_website_url)
 
 <p align="center">
   <img src="your_profile_picture_or_logo_url" alt="Takashi Goldenfield" width="200">
@@ -19,7 +19,7 @@ Hi, I'm Takashi Goldenfield, a passionate content creator dedicated to bringing 
 
 ## Where to Find My Content
 
-* **YouTube:** [Your YouTube Channel Link](your_youtube_channel_id) - Video analysis, interviews, and educational content.
+* **YouTube:** [https://www.youtube.com/@takashi-goldenfield](your_youtube_channel_id) - Video analysis, interviews, and educational content.
 * **Twitter:** [@your_twitter_handle](https://twitter.com/your_twitter_handle) - Real-time updates, insights, and community engagement.
 * **Website/Blog:** [Your Website/Blog Link](your_website_url) - Articles, in-depth reports, and written analysis.
 * **Podcast (if applicable):** [Your Podcast Link](your_podcast_url) - Audio discussions and interviews.
@@ -43,7 +43,7 @@ Hi, I'm Takashi Goldenfield, a passionate content creator dedicated to bringing 
 
 ## Connect With Me
 
-* **Email:** [your_email_address]
+* **Email:** [meocona16@gmail.com]
 * **LinkedIn (Optional):** [Your LinkedIn Profile Link]
 * **Telegram (Optional):** [Your Telegram Group/Channel Link]
 
